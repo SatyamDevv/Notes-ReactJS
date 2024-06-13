@@ -1,2 +1,2 @@
 # Notes-ReactJS
-Created with CodeSandbox
+ Simple Implement for Basic Understanding of ReactJS
